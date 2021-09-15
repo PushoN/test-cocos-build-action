@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - uses: miggene/cocos-build@v1
+      - uses: miggene/cocos-build@v1.0.2
