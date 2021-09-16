@@ -35,6 +35,6 @@ jobs:
       #     echo Add other actions to build,
       #     echo test, and deploy your project.
       - name: Cocos Creator Build
-        uses: miggene/cocos-build@v1.2.0
+        uses: miggene/cocos-build@v1.2.1
         with:
           cocos_version: 2.4.5
