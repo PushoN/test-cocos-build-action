@@ -26,4 +26,4 @@ jobs:
       - name: Cocos Creator Build
         uses: miggene/cocos-build@v1.2.3
         with:
-          cocos_version: 2.4.5
+          cocos_version: 2.4.7
